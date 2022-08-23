@@ -1,0 +1,118 @@
+/*
+Theme Name:My Resume Shahidul
+Theme URI: http://www.shahidul.net
+Author: Shahidul Islam
+Author URI: https://www.shahidul.net
+Description: This Is My Site.
+Version: 1.0.0
+License URI: http://www.shahidul.net
+Tags: blog, blogs, shahidul, shahidul.net, wordpress, templates, template, website, php, programmer, developer, mobile, desktop, Shahidul, Islam, contact, knowledge, ict
+Text Domain: profile
+
+This theme Developed By Shahidul Islam
+*/
+
+
+
+.about-int img {
+	min-width: 280px;
+	min-height: 305px;
+	max-width: 280px;
+	max-height: 305px;
+	border: 2px solid #EA91F7;
+	margin-left: 127px;
+}
+
+
+.about-int {
+	padding-top: 46px;
+	margin-bottom: 74px;
+}
+
+
+
+@media only screen and (max-width:1200px) {
+	
+}
+@media only screen and (max-width:1024px) {
+	.about-int img {
+	margin-left: 33%;
+}
+}
+@media only screen and (max-width:768px) {
+	.myTextCenter {
+	text-align: center;
+}
+}
+@media only screen and (max-width:600px) {
+	.myTextCenter {
+	text-align: center;
+}
+.about-int img {
+	margin-left: 27%;
+}
+}
+
+@media only screen and (max-width:400px) {
+	.myTextCenter {
+	text-align: center;
+}
+.about-int img {
+	margin-left: 12%;
+}
+}
+
+@media only screen and (max-width:360px) {
+	.myTextCenter {
+	text-align: center;
+}
+.about-int img {
+	margin-left: 7%;
+}
+}
+@media only screen and (max-width:300px) {
+	.myTextCenter {
+	text-align: center;
+}
+.about-int img {
+	margin-left: -4%;
+}
+}
+
+@media only screen and (max-width:250px) {
+	.myTextCenter {
+	text-align: center;
+}
+.about-int img {
+	margin-left: -5%;
+}
+}
+
+
+
+.button, a.button, button, input[type="submit"], input[type="reset"], input[type="button"] {
+	display: inline-block;
+	font-family: "poppins-bold", sans-serif;
+	font-size: 1.4rem;
+	text-transform: uppercase;
+	letter-spacing: .3rem;
+	height: 5.4rem;
+	line-height: 5.4rem;
+	padding: 0 3rem;
+	margin: 0 .3rem 1.2rem 0;
+	color: #313131;
+	text-decoration: none;
+	cursor: pointer;
+	text-align: center;
+	white-space: nowrap;
+	border: none;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+
+background: #FF0077;
+}
+.submitforma{
+width:100%}
