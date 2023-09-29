@@ -1,1 +1,1 @@
-# beginner-resume-themes
+# Beginner Resume Themes
